@@ -2,7 +2,7 @@
 
 CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & Cybersecurity** (incl. Blockchain Technology). I like building things that touch both hardware and security — and I learn best by shipping, not just reading docs.
 
-- 🔭 Currently building an **IoT-based Smart Attendance Management System** (academic project, 4-person team)
+- 🔭 Currently Preparing for the ongoing placement Drive in our College
 - 🌱 Sharpening C++ and DSA fundamentals for SDE interviews
 - 🔐 Interested in applied cryptography, blockchain systems, and secure communication
 - 💬 Ask me about Linux troubleshooting, embedded systems, or Solidity
