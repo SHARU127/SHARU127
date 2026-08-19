@@ -24,6 +24,8 @@ Smart-city incident reporting backend — a digital twin concept for urban infra
 which has a option, to upload current situation in any of the roads, be it heavy traffic, a pothhole, a diversion. 
 all this will marked on the map, so that it could help urban Traffic managing communities to predict the traffic or divert them.
 
+**[Secure Communication & Ghost Vault](https://github.com/SHARU127/CNS_PROJECT)**
+Two related cryptography projects built around a shared crypto utilities layer: a hybrid encrypted client-server messaging system, and Ghost Vault — a steganographic secure storage app.
 
 **[DSA](https://github.com/SHARU127/dsa)**
 Ongoing problem-solving practice (LeetCode / TUF) — arrays, linked lists, DP, and more, with clean solutions.
