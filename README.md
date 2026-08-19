@@ -13,11 +13,11 @@ CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & C
 
 ## 🚀 Featured Projects
 
-**[Blockchain-Enhanced Secure Communication Platform](https://github.com/SHARU127/Blockchain_Communication_Platform)**
-Secure messaging system using blockchain principles to protect message integrity and authenticity.
-
 **[Synthetic Yield Stablecoin](https://github.com/SHARU127/SYNTHETIC-YIELD-STABLECOIN)**
 A yield-bearing stablecoin implemented in Solidity and it is build on Ethereum Blockchain (Decentralised system) — exploring DeFi mechanics and smart contract design.
+
+**[Blockchain-Enhanced Secure Communication Platform](https://github.com/SHARU127/Blockchain_Communication_Platform)**
+Secure messaging system using blockchain principles to protect message integrity and authenticity.
 
 **[Urban Twin](https://github.com/SHARU127/Urban_twin)**
 Smart-city incident reporting backend — a digital twin concept for urban infrastructure monitoring.
