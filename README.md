@@ -1,6 +1,6 @@
 # Hi, I'm Sharath 
 
-CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & Cybersecurity** (incl. Blockchain Technology). I like building things that touch both hardware and security — and I learn best by shipping, not just reading docs.
+CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & Cybersecurity** (incl. Blockchain Technology). I like building things that are meaningful — and I learn best by shipping, not just reading docs.
 
 - 🔭 Currently Preparing for the ongoing placement Drive in our College
 - 🌱 Sharpening PYTHON and DSA fundamentals for SDE interviews
@@ -12,8 +12,8 @@ CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & C
 `Git/GitHub` `Docker` `Linux` `System Design` `Jenkins`
 
 ## CS Fundamentals
-"TO BUILD ANYTHING IN THE WORLD, STRONG BASICS ARE THE NECESSITY" - a wise man...
-`DBMS` `OOPS` `SQL` `OS` `CN`
+   "TO BUILD ANYTHING IN THE WORLD, STRONG BASICS ARE THE NECESSITY" - a wise man...
+   `DBMS` `OOPS` `SQL` `OS` `CN`
 
 ## Languages I know (undersatnd or work with)
 `Python` `C` `Java` `C++` `Solidity` `JavaScript` `HTML` `CSS`
