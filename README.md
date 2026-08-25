@@ -12,7 +12,7 @@ CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & C
 `Git/GitHub` `Docker` `Linux` `System Design` `Jenkins`
 
 ## CS Fundamentals
-   "TO BUILD ANYTHING IN THE WORLD, STRONG BASICS ARE THE NECESSITY" - a wise man...
+   "To Build Anything in the World, Strong Basics are the NECESSITY" - a wise man...
    `DBMS` `OOPS` `SQL` `OS` `CN`
 
 ## Languages I know (undersatnd or work with)
