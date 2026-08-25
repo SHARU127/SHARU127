@@ -3,13 +3,20 @@
 CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & Cybersecurity** (incl. Blockchain Technology). I like building things that touch both hardware and security — and I learn best by shipping, not just reading docs.
 
 - 🔭 Currently Preparing for the ongoing placement Drive in our College
-- 🌱 Sharpening C++ and DSA fundamentals for SDE interviews
-- 🔐 Interested in applied cryptography, blockchain systems, and secure communication
-- 💬 Ask me about Linux troubleshooting, embedded systems, or Solidity
+- 🌱 Sharpening PYTHON and DSA fundamentals for SDE interviews
+- 🔐 Interested in Building new things, such a way that it makes me uncomfortable.           whenever i see a new thing, that's when it hits me, you should be ready to be           uncomfortable to be able learn and grow. in this ever changing world to be able         keep up with it, i should be always be out of my comfort zone.
+- 💬 Ask me about Linux troubleshooting, Solidity.
 
 ## 🛠️ Tech I work with
 
-`C++` `Python` `Java` `SQL` `Solidity` `JavaScript` `Git/GitHub` `Docker` `Linux` `OOPS` `System Design` `DBMS` `HTML` `CSS` `Jenkins`
+`Git/GitHub` `Docker` `Linux` `System Design` `Jenkins`
+
+## CS Fundamentals
+"TO BUILD ANYTHING IN THE WORLD, STRONG BASICS ARE THE NECESSITY" - a wise man...
+`DBMS` `OOPS` `SQL` `OS` `CN`
+
+## Languages I know (undersatnd or work with)
+`Python` `C` `Java` `C++` `Solidity` `JavaScript` `HTML` `CSS`
 
 ## 🚀 Featured Projects
 
