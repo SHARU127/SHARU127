@@ -9,7 +9,7 @@ CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & C
 
 ## 🛠️ Tech I work with
 
-`Git/GitHub` `Docker` `Linux` `System Design` `Jenkins`
+`Git/GitHub` `Docker` `Linux` `System Design` `Jenkins` `Frontend` 
 
 ## CS Fundamentals
    "To Build Anything in the World, Strong Basics are the NECESSITY" - a wise man...
