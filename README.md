@@ -13,9 +13,11 @@ CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & C
 
 ## CS Fundamentals
    "To Build Anything in the World, Strong Basics are the NECESSITY" - a wise man...
+   
    `DBMS` `OOPS` `SQL` `OS` `CN`
 
 ## Languages I know (undersatnd or work with)
+
 `Python` `C` `Java` `C++` `Solidity` `JavaScript` `HTML` `CSS`
 
 ## 🚀 Featured Projects
