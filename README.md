@@ -5,7 +5,7 @@ CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & C
 - 🔭 Currently Preparing for the ongoing placement Drive in our College
 - 🌱 Sharpening PYTHON and DSA fundamentals for SDE interviews
 - 🔐 Interested in Building new things, such a way that it makes me uncomfortable.           whenever i see a new thing, that's when it hits me, you should be ready to be           uncomfortable to be able learn and grow. in this ever changing world to be able         keep up with it, i should be always be out of my comfort zone.
-- 💬 Ask me about Linux troubleshooting, Solidity.
+
 
 ## 🛠️ Tech I work with
 
