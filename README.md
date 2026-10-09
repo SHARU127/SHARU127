@@ -1,44 +1,37 @@
 # Hi, I'm Sharath 
 
-CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & Cybersecurity** (incl. Blockchain Technology). I like building things that are meaningful — and I learn best by shipping, not just reading docs.
+CS undergrad at **Bangalore Institute of Technology**, specializing in **IoT & Cybersecurity** (incl. Blockchain Technology). I like building new tech-related things.
 
-- 🔭 Currently Preparing for the ongoing placement Drive in our College
-- 🌱 Sharpening PYTHON and DSA fundamentals for SDE interviews
-- 🔐 Interested in Building new things, such a way that it makes me uncomfortable.           whenever i see a new thing, that's when it hits me, you should be ready to be           uncomfortable to be able learn and grow. in this ever changing world to be able         keep up with it, i should be always be out of my comfort zone.
+whenever i see a problem, it hits me: can i bring in tech to solve the problem?
 
+Notion: I believe in "You have to always be in an uncomfortable state to learn and grow"
 
 ## 🛠️ Tech I work with
 
-`Git/GitHub` `Docker` `Linux` `System Design` `Jenkins` `Frontend` 
+`Git/GitHub` `Docker` `Linux`  `Jenkins` `Frontend` 
 
 ## CS Fundamentals
-   "To Build Anything in the World, Strong Basics are the NECESSITY" - a wise man...
+   "To Build Anything in the World, Strong Basics are a NECESSITY" - a wise man...
    
    `DBMS` `OOPS` `SQL` `OS` `CN`
 
-## Languages I know (undersatnd or work with)
+## Languages I know (understand or work with)
 
 `Python` `C` `Java` `C++` `Solidity` `JavaScript` `HTML` `CSS`
 
 ## 🚀 Featured Projects
 
 **[Synthetic Yield Stablecoin](https://github.com/SHARU127/SYNTHETIC-YIELD-STABLECOIN)**
-A yield-bearing stablecoin implemented in Solidity and it is build on Ethereum Blockchain (Decentralised system) — exploring DeFi mechanics and smart contract design.
-
-**[Blockchain-Enhanced Secure Communication Platform](https://github.com/SHARU127/Blockchain_Communication_Platform)**
-Secure messaging system using blockchain principles to protect message integrity and authenticity.
+A stablecoin that is decentralised in nature.
 
 **[Urban Twin](https://github.com/SHARU127/Urban_twin)**
-Smart-city incident reporting backend — a digital twin concept for urban infrastructure monitoring.
-which has a option, to upload current situation in any of the roads, be it heavy traffic, a pothhole, a diversion. 
-all this will marked on the map, so that it could help urban Traffic managing communities to predict the traffic or divert them.
-
-**[Secure Communication & Ghost Vault](https://github.com/SHARU127/CNS_PROJECT)**
-Two related cryptography projects built around a shared crypto utilities layer: a hybrid encrypted client-server messaging system, and Ghost Vault — a steganographic secure storage app.
+An incident reporting backend — a digital twin concept for urban infrastructure monitoring.
+It has an option to upload the current incident on any of the roads, be it heavy traffic, a pothole, or a diversion. 
+all this will marked on the map, so that it could help urban traffic management communities predict traffic or divert them.
 
 **[DSA](https://github.com/SHARU127/dsa)**
-Ongoing problem-solving practice (LeetCode / TUF) — arrays, linked lists, DP, and more, with clean solutions.
-Following A2Z striver SDE sheet for DSA problems.
+Ongoing problem-solving practice (LeetCode ) — arrays, linked lists and more.
+Following Neetcode
 
 ## 📫 Reach me
 
