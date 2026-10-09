@@ -6,7 +6,7 @@ whenever i see a problem, it hits me: can i bring in tech to solve the problem?
 
 Notion: I believe in "You have to always be in an uncomfortable state to learn and grow"
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 `Git/GitHub` `Docker` `Linux`  `Jenkins` `Frontend` 
 
@@ -19,7 +19,7 @@ Notion: I believe in "You have to always be in an uncomfortable state to learn a
 
 `Python` `C` `Java` `C++` `Solidity` `JavaScript` `HTML` `CSS`
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **[Synthetic Yield Stablecoin](https://github.com/SHARU127/SYNTHETIC-YIELD-STABLECOIN)**
 A stablecoin that is decentralised in nature.
